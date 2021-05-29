@@ -1,0 +1,10 @@
+coverage==5.5
+deprecation==2.1.0
+eyed3==0.9.6
+filetype==1.0.7
+packaging==20.9
+pip==21.1.2
+pyparsing==2.4.7
+setuptools==57.0.0
+toml==0.10.2
+wheel==0.36.2
